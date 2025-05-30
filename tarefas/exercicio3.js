@@ -12,6 +12,7 @@ let producao = [
 console.log("Itens de  produção:");
 console.table(producao);
 
+//Removendo o último item da lista
 let removeUltimoProduto = producao.pop();
 console.log("Produção com último item removido:");
 console.table(producao);

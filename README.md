@@ -8,3 +8,6 @@ Usa o método Push para adicionar novos itens na lista cardapio (array)
 
 ## Exercício 3: Último produto com defeito
 Usa o método Pop para remover o último item da lista producao (array)
+
+## Exercício 4: Cancelamento de última inscrição
+Usa o método Pop para remover o último item da lista inscritos (array)
