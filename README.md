@@ -17,3 +17,6 @@ Usa o método Shift para remover o primeiro item da lista importados (array)
 
 ## Exercício 6: Primeira mensagem indevida
 Usa o método Shift para remover o primeiro item da lista mensagens (array)
+
+## Exercício 7: Prioridade na fila
+Usa o método Unshift para adicionar itens no início da lista filaAtendimento (array)
