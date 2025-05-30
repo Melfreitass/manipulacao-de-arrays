@@ -11,3 +11,6 @@ Usa o método Pop para remover o último item da lista producao (array)
 
 ## Exercício 4: Cancelamento de última inscrição
 Usa o método Pop para remover o último item da lista inscritos (array)
+
+## Exercício 5: Erro de importação
+Usa o método Shift para remover o primeiro item da lista importados (array)
