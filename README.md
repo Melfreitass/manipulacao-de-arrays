@@ -14,3 +14,6 @@ Usa o método Pop para remover o último item da lista inscritos (array)
 
 ## Exercício 5: Erro de importação
 Usa o método Shift para remover o primeiro item da lista importados (array)
+
+## Exercício 6: Primeira mensagem indevida
+Usa o método Shift para remover o primeiro item da lista mensagens (array)
