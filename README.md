@@ -29,3 +29,7 @@ Usa o método Includes para verificar se um valor existe na lista presenca (arra
 
 ## Exercício 10: Verificação de produto em estoque
 Usa o método Includes para verificar se um valor existe na lista estoque (array)
+
+## Exercício 11: Geração de frase
+Usa o método Join para transformar a lista em String 
+
