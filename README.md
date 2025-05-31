@@ -26,3 +26,6 @@ Usa o método Unshift para adicionar itens no início da lista chamada (array)
 
 ## Exercicio 9: Conferência de presença
 Usa o método Includes para verificar se um valor existe na lista presenca (array)
+
+## Exercício 10: Verificação de produto em estoque
+Usa o método Includes para verificar se um valor existe na lista estoque (array)
