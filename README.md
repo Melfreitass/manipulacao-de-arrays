@@ -33,3 +33,5 @@ Usa o método Includes para verificar se um valor existe na lista estoque (array
 ## Exercício 11: Geração de frase
 Usa o método Join para transformar a lista em String 
 
+## Exercício 12: Tags para URL
+Usa o método Join para transformar a lista em String 
