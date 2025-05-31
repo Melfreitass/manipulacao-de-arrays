@@ -23,3 +23,6 @@ Usa o método Unshift para adicionar itens no início da lista filaAtendimento (
 
 ## Exercício 8: Alunos transferidos
 Usa o método Unshift para adicionar itens no início da lista chamada (array)
+
+## Exercicio 9: Conferência de presença
+Usa o método Includes para verificar se um valor existe na lista presenca (array)
