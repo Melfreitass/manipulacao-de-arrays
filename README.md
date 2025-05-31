@@ -20,3 +20,6 @@ Usa o método Shift para remover o primeiro item da lista mensagens (array)
 
 ## Exercício 7: Prioridade na fila
 Usa o método Unshift para adicionar itens no início da lista filaAtendimento (array)
+
+## Exercício 8: Alunos transferidos
+Usa o método Unshift para adicionar itens no início da lista chamada (array)
