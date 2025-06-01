@@ -68,3 +68,6 @@ Usa o método Filter para filtrar a lista alunos (array)
 
 ## Exercício 23: Organizar lista de candidatos
 Usa o método Sort para colocar em ordem alfabética a lista candidatos (array)
+
+## Exercício 24: Ranking de vendas
+Usa o método Sort para ordenar em forma decrescente a lista vendas (array)
