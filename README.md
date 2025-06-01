@@ -53,3 +53,7 @@ Usa o método Concat para juntar as listas usuariosSistemaA com usuariosSistemaB
 
 ## Exercício 18: Catálogo unificado
 Usa o método Concat para juntar as listas hardware com perifericos (arrays)
+
+## Exercício 19: Códigos de produtos formatados
+Usa o método Map para deixar todas as letras em maiúsculo na lista codigos (array)
+
