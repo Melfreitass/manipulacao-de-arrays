@@ -13,4 +13,4 @@ let historico = [
 //Invertendo a ordem das atualizações
 let historicoInvertido = historico.reverse();
 console.log(`\nHistórico começando pelo mais recente`);
-console.table(historico);
+console.table(historico); 
