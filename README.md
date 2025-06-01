@@ -71,3 +71,7 @@ Usa o método Sort para colocar em ordem alfabética a lista candidatos (array)
 
 ## Exercício 24: Ranking de vendas
 Usa o método Sort para ordenar em forma decrescente a lista vendas (array)
+
+## Exercício 25: Últimas atualizações do sistema
+Usa o método Reverse para inverter a lista atualizacoes (array)
+
