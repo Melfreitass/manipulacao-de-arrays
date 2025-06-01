@@ -75,3 +75,5 @@ Usa o método Sort para ordenar em forma decrescente a lista vendas (array)
 ## Exercício 25: Últimas atualizações do sistema
 Usa o método Reverse para inverter a lista atualizacoes (array)
 
+## Exercício 26: Histórico de navegação
+Usa o método Reverse para inverter a lista historico (array)
