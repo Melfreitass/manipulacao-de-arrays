@@ -41,3 +41,6 @@ Usa o métudo Slice para extrair apenas uma paste da lista diasFalta (array)
 
 ## Exercício 14: Destaques da semana no blog
 Usa o método Slice para extrair apenas uma parte da lista artigosBlog (array)
+
+## Exercicio 15: Remoção de itens inativos no menu
+Usa o método Splice para remover itens da lista menuNavegacao (array)
