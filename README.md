@@ -61,7 +61,10 @@ Usa o método Map para deixar todas as letras em maiúsculo na lista codigos (ar
 Usa o método Map para transformar a lista precos (array)
 
 ## Exercício 21: Filtrar itens acima do estoque mínimo
-Usa a método Filter para filtrar a lista estoque (array)
+Usa o método Filter para filtrar a lista estoque (array)
 
 ## Exercício 22: Alunos com média acima de 7
-Usa a método Filter para filtrar a lista alunos (array)
+Usa o método Filter para filtrar a lista alunos (array)
+
+## Exercício 23: Organizar lista de candidatos
+Usa o método Sort para colocar em ordem alfabética a lista candidatos (array)
