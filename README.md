@@ -59,3 +59,6 @@ Usa o método Map para deixar todas as letras em maiúsculo na lista codigos (ar
 
 ## Exercício 20: Formatando lista de preços
 Usa o método Map para transformar a lista precos (array)
+
+## Exercício 21:  Filtrar itens acima do estoque mínimo
+Usa a método Filter para filtrar a lista estoque (array)
