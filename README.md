@@ -49,4 +49,7 @@ Usa o método Splice para remover itens da lista menuNavegacao (array)
 Usa o método Splice para alterar itens da lista gradeCurricular (array)
 
 ## Exercício 17: Atualização de lista de usuários
-Usa o método Concat para juntar as listas usuariosSistemaA usuariosSistemaB
+Usa o método Concat para juntar as listas usuariosSistemaA com usuariosSistemaB (arrays)
+
+## Exercício 18: Catálogo unificado
+Usa o método Concat para juntar as listas hardware com perifericos (arrays)
