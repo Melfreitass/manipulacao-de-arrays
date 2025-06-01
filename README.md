@@ -47,3 +47,6 @@ Usa o método Splice para remover itens da lista menuNavegacao (array)
 
 ## Exercicio 16: Substituição de matérias na grade
 Usa o método Splice para alterar itens da lista gradeCurricular (array)
+
+## Exercício 17: Atualização de lista de usuários
+Usa o método Concat para juntar as listas usuariosSistemaA usuariosSistemaB
