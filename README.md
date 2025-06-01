@@ -35,3 +35,8 @@ Usa o método Join para transformar a lista em String
 
 ## Exercício 12: Tags para URL
 Usa o método Join para transformar a lista em String 
+
+## Exercício 13: Relatório de férias - Primeira semana
+Usa o métudo Slice para extrair apenas uma paste da lista diasFalta
+
+
