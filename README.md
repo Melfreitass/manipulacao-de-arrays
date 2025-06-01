@@ -44,3 +44,6 @@ Usa o método Slice para extrair apenas uma parte da lista artigosBlog (array)
 
 ## Exercicio 15: Remoção de itens inativos no menu
 Usa o método Splice para remover itens da lista menuNavegacao (array)
+
+## Exercicio 16: Substituição de matérias na grade
+Usa o método Splice para alterar itens da lista gradeCurricular (array)

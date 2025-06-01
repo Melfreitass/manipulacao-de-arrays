@@ -14,5 +14,6 @@ let diasFaltas = [
 console.log("Férias:");
 console.table(diasFaltas);
 
+//Extraindo parte da lista
 console.log(`\nSomente a primeira semana de férias:`);
 console.table(diasFaltas.slice(0, 5));

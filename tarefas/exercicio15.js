@@ -13,6 +13,7 @@ let menuNavegacao = [
 console.log("Menu navegação:");
 console.table(menuNavegacao);
 
+//Removendo itens
 let removeItem = menuNavegacao.splice(1, 2);
 console.log("Menu navegação atualizado (dois itens removidos):");
 console.table(menuNavegacao);

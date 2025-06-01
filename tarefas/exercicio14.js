@@ -14,5 +14,6 @@ let artigosBlog = [
 console.log("Artigos:");
 console.table(artigosBlog);
 
+//Extraindo parte da lista
 console.log(`\nOs quatro artigos mais recentes:`);
 console.table(artigosBlog.slice(0, 4));
