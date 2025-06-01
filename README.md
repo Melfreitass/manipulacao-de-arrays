@@ -37,6 +37,7 @@ Usa o método Join para transformar a lista em String
 Usa o método Join para transformar a lista em String 
 
 ## Exercício 13: Relatório de férias - Primeira semana
-Usa o métudo Slice para extrair apenas uma paste da lista diasFalta
+Usa o métudo Slice para extrair apenas uma paste da lista diasFalta (array)
 
-
+## Exercício 14: Destaques da semana no blog
+Usa o método Slice para extrair apenas uma parte da lista artigosBlog (array)
