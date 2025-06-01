@@ -57,3 +57,5 @@ Usa o método Concat para juntar as listas hardware com perifericos (arrays)
 ## Exercício 19: Códigos de produtos formatados
 Usa o método Map para deixar todas as letras em maiúsculo na lista codigos (array)
 
+## Exercício 20: Formatando lista de preços
+Usa o método Map para transformar a lista precos (array)
